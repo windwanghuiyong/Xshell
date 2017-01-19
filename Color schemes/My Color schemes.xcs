@@ -1,0 +1,23 @@
+[My Color]
+text=f2f2f2
+text(bold)=ffffff
+background=000000
+black=36342e
+black(bold)=535755
+red=a56434
+red(bold)=cf9e72
+green=008000			#其他人可写目录 other write
+green(bold)=1cc470
+yellow=999606
+yellow(bold)=e2e234
+blue=4646ff
+blue(bold)=6f6ff4
+magenta=7b5175
+magenta(bold)=a97ead
+cyan=00a2c4
+cyan(bold)=50ebfc
+white=cfd8d3
+white(bold)=eceeee
+[Names]
+name0=My Color
+count=1

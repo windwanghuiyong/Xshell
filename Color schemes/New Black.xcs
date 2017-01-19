@@ -1,0 +1,23 @@
+[New Black]
+text=f2f2f2
+cyan(bold)=50ebfc
+text(bold)=ffffff
+magenta=7b5175
+green=008000
+green(bold)=1cc470
+background=242424
+cyan=00a2c4
+red(bold)=cf9e72
+yellow=999606
+magenta(bold)=a97ead
+yellow(bold)=e2e234
+red=a56434
+white=cfd8d3
+blue(bold)=6f6ff4
+white(bold)=eceeee
+black=36342e
+blue=4646ff
+black(bold)=535755
+[Names]
+name0=New Black
+count=1
